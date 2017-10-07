@@ -1,0 +1,23 @@
+{
+  "name": "starting1907",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aruna1997/starting1907.git"
+  },
+  "author": "arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aruna1997/starting1907/issues"
+  },
+  "homepage": "https://github.com/aruna1997/starting1907#readme"
+}
